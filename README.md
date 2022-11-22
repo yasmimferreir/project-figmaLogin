@@ -1,70 +1,99 @@
-# Getting Started with Create React App
+#   Login-reactJs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>📄 Explicação
 
-## Available Scripts
+O projeto dedicado ao desenvolvimento Front-end com ReactJs e figma, 
+habilidades com o figma em desenvolver um projeto Front-end com a biblioteca ReactJs, pelo design do Figma.
 
-In the project directory, you can run:
 
-### `npm start`
+<br>
+> Resultado do projeto 
+<img src="https://user-images.githubusercontent.com/97356148/203361014-7cb94a55-62cb-4f64-a0f0-13de95806184.png" width="800px";
+     alt="exemplo imagem">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### 🛠 Ajustes e melhorias
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-### `npm run build`
+- [x] Design FIGMA
+- [x] Css
+- [x] Java Script
+- [x] Responsive
+- [x] Biblioteca ReactJs
+- [x] Yarn 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Utilização : <br/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ReactJs
+> $ npx create-react-app
 
-### `npm run eject`
+   Yarn 
+> $ yarn 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ Figma
+ > Link do Design: https://www.figma.com/file/axWcRQbTjkGQ1lRwnJINnj/Login%2FPage-(Community)?node-id=2%3A148&t=3KEpvPvm4JCeGAnL-0
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 💻 Pré-requisitos
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+* Você instalou a versão mais recente de  NodeJs
+* Você tem uma máquina Windows 
 
-## Learn More
+## 🚀 Instalando o projeto 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Para instalar o Quiz, siga estas etapas:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Windows: <br>
+git clone `url`.
 
-### Code Splitting
+## 📫 Contribuindo para o Projeto 
+<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+Para contribuir com o projeto, siga estas etapas:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
 
-### Analyzing the Bundle Size
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🤝 Colaboradores
 
-### Making a Progressive Web App
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/97356148/200590856-942d44a8-f136-4320-a381-699ecbc0d6ec.JPG" width="100px;" alt="Foto Yasmim Ferreira Costa"/><br>
+        <sub>
+          <b>Yasmim Ferreira Costa</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 😄 Seja um dos contribuidores<br>
 
-### Deployment
+Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 📝 Licença
 
-### `npm run build` fails to minify
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[⬆ Voltar ao topo](#Login-reactJs)<br>
+
+ 
+
+
+
+
+
