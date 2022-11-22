@@ -1,38 +1,113 @@
-.App {
+.container-global {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.container {
+  display: inline-block;
+  margin: 8rem 0 0 0;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 5rem;
+  width: 42%;
+  height: 30rem;
+  background-color: white;
+  box-shadow: rgba(29, 44, 62, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+}
+
+.title {
+  display: flex;
+  align-items: flex-end;
+  font-style: italic;
+  position: relative;
+  margin: 3rem 0 0 9rem;
+  font-weight: 600;
+  font-size: 1.7rem;
+  line-height: 29px;
+  color: #595959;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+span {
+  color: #0078f0;
+  padding-left: 0.6rem;
+  font-style: italic;
+}
+
+.paragrafh {
+  display: flex;
+  align-items: center;
   text-align: center;
+  position: relative;
+  margin: 2.6rem 0 0 7rem;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 19px;
+
+  color: rgba(0, 0, 0, 0.5);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.register--input {
+  display: block;
+  align-items: center;
+  position: relative;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.linha {
+  position: relative;
+  width: 20em;
+  margin-left: 10rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.principal {
+  display: block;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.9rem;
+  line-height: 1rem;
+  color: #333333;
+  padding: 2rem 0 0 10rem;
+}
+
+.input--usuario {
+  display: flex;
+  border: 0;
+  outline: 0;
+}
+
+.container--button {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
+
+  /*padding: 10px;
+  gap: 8px;*/
+}
+
+.button {
+  position: absolute;
+  border: none;
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  width: 25rem;
+  height: 2.4rem;
+  margin-top: 10rem;
+  background: #0078f0;
+  border-radius: 5px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.9rem;
+  line-height: 26px;
+  letter-spacing: 0.46px;
+  text-transform: uppercase;
 }
